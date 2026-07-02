@@ -103,7 +103,3 @@ movie-app-react/
 ## 🔒 Environment Variables
 
 This project keeps all sensitive keys out of source control. Ensure `.env.local` is present locally and never committed — it's already excluded via `.gitignore`.
-
-## 📄 License
-
-This project is available for personal and educational use. Add a license of your choice (e.g., MIT) if you plan to distribute it.
